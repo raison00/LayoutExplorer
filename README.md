@@ -1,9 +1,11 @@
+
 ## LayoutExplorer
 Flutter Inspector Layout Explorer:  DevTools for Resolving the RenderFlex Overflow Error  
 
-
 ### Objective
-* [Flutter Layout & the  RenderFlex overflow error](https://github.com/flutter/flutter-intellij/issues/4089): Provide visual tooling for building common layout patterns
+* [Flutter Layout & the  RenderFlex overflow error](https://github.com/flutter/flutter-intellij/issues/4089): Provide visual tooling for visualizing dart and troubleshooting common Flutter layout patterns.
+
+![visualization of layout explorer](http://www.feliciachamberlain.com/flutter/devtools/layout-explorer-logo-diagram.png)
 
 ### Gists
 * [Flutter RenderOverflow Errors using CustomMultiChild ](https://gist.github.com/raison00/b11a9a7dedf70500d9fb8bd215d86de6): Sample Overflow Challenge: Using CustomMultiChild Layout to Resolve RenderOverflow Errors
@@ -22,3 +24,4 @@ Flutter Inspector Layout Explorer:  DevTools for Resolving the RenderFlex Overfl
 
 ### Open
 * [Active: Will be closed soon](https://github.com/flutter/devtools/issues/1590): DevTools Debugger not available after launching Layout Explorer
+![render overflow error on mobile device](http://www.feliciachamberlain.com/flutter/devtools/flutter-overflow-issue-phone.png)
