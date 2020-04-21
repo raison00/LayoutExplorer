@@ -3,7 +3,7 @@
 Flutter Inspector Layout Explorer:  DevTools for Resolving the RenderFlex Overflow Error  
 
 ### Objective
-* [Flutter Layout & the  RenderFlex overflow error](https://github.com/flutter/flutter-intellij/issues/4089): Provide visual tooling for troubleshooting common Flutter flex layout patterns and for visualizing dart code.
+* [Flutter Layout & the  RenderFlex overflow error](https://github.com/flutter/flutter-intellij/issues/4089): Provide visual tooling for troubleshooting common Flutter flex layout patterns.
 
 ![visualization of layout explorer](http://www.feliciachamberlain.com/flutter/devtools/layout-explorer-logo-diagram.png)
 
