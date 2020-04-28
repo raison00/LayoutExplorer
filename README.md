@@ -30,5 +30,8 @@
 * [Alpha version access to Flutter Inspector Layout Explorer](https://github.com/flutter/devtools/issues/1481): How to access the Flutter Inspector Layout Explorer
 
 ### Open
+* [Active: Layout Explorer -->  Widget Inspector] (https://github.com/flutter/flutter-intellij/issues/4511):Embedding Layout Explorer to the Widget Inspector in IntelliJ
+* [Active: Layout Explorer --> IntelliJ] (https://github.com/flutter/flutter-intellij/issues/4512): Apply changes to user code from the layout explorer embedded in IntelliJ
+* [Active: Layout Explorer --> quick jump to overflow source] (https://github.com/flutter/devtools/issues/1546):FR - LayoutExplorer - Add option to quick jump to overflowing widget
 * [Active: Will be closed soon](https://github.com/flutter/devtools/issues/1590): DevTools Debugger not available after launching Layout Explorer
 ![render overflow error on mobile device](http://www.feliciachamberlain.com/flutter/devtools/flutter-overflow-issue-phone.png)
