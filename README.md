@@ -12,11 +12,12 @@
 
 ![visualization of layout explorer](http://www.feliciachamberlain.com/flutter/devtools/layout-explorer-logo-diagram.png)
 
-### Gists
+### Gists:  Visualiing Common Layout Issues with Flutter Tools and Solutions
 * [Flutter RenderOverflow Errors using CustomMultiChild ](https://gist.github.com/raison00/b11a9a7dedf70500d9fb8bd215d86de6): Sample Overflow Challenge: Using CustomMultiChild Layout to Resolve RenderOverflow Errors
 * [Flutter RenderOverflow Solution using CustomMultiChild ](https://gist.github.com/raison00/fb4ce93653187da22f9cfdb9eab7af52): Sample Overflow Solution: Using CustomMultiChild Layout to Resolve RenderOverflow Errors
 * [Flutter RenderOverflow Solution using Flexible Widget](https://gist.github.com/raison00/679ad092bdfd5979e766507c1dc7a0e9): Using Flexible Widget to solve render flex overflow errors
 * [Flutter RenderOverflow Solution using Expanded Widget](https://gist.github.com/raison00/27f6302019514b0c5f8150f9fdfa6a88): Using Expanded Widget to solve render flex overflow errors
+* [Flutter Box Constraints](https://gist.github.com/raison00/311b04d2898178f14766675673dfa16a): Box Constraints Visualization; no text clipping issues/errors
 ### In Queue 
 
 * [Flutter Console Layout Issues: UX Messaging](https://github.com/flutter/flutter/issues/41149): Improve message for the RenderFlex Overflow error
