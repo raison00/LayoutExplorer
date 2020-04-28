@@ -12,7 +12,7 @@
 
 ![visualization of layout explorer](http://www.feliciachamberlain.com/flutter/devtools/layout-explorer-logo-diagram.png)
 
-### Gists:  Visualiing Common Layout Issues with Flutter Tools and Solutions
+### Gists:  Visualizing Common Layout Issues with Flutter Tools and Solutions
 * [Flutter RenderOverflow Errors using CustomMultiChild ](https://gist.github.com/raison00/b11a9a7dedf70500d9fb8bd215d86de6): Sample Overflow Challenge: Using CustomMultiChild Layout to Resolve RenderOverflow Errors
 * [Flutter RenderOverflow Solution using CustomMultiChild ](https://gist.github.com/raison00/fb4ce93653187da22f9cfdb9eab7af52): Sample Overflow Solution: Using CustomMultiChild Layout to Resolve RenderOverflow Errors
 * [Flutter RenderOverflow Solution using Flexible Widget](https://gist.github.com/raison00/679ad092bdfd5979e766507c1dc7a0e9): Using Flexible Widget to solve render flex overflow errors
