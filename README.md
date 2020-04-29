@@ -10,8 +10,10 @@
 * [flutter_error_studies repo](https://github.com/InMatrix/flutter_error_studies): A repo for collecting case studies of Flutter error messages
 
 ### Objective
-* [Flutter Layout & the  RenderFlex overflow error](https://github.com/flutter/flutter-intellij/issues/4089): Provide visual tooling for troubleshooting common Flutter flex layout patterns.
 ![render overflow error on mobile device](http://www.feliciachamberlain.com/flutter/devtools/flutter-overflow-issue-phone.png)
+
+* [Flutter Layout & the  RenderFlex overflow error](https://github.com/flutter/flutter-intellij/issues/4089): Provide visual tooling for troubleshooting common Flutter flex layout patterns.
+
 
 ### Gists:  Visualizing Common Layout Issues with Flutter Tools and Solutions
 * [Flutter RenderOverflow Errors using CustomMultiChild ](https://gist.github.com/raison00/b11a9a7dedf70500d9fb8bd215d86de6): Sample Overflow Challenge: Using CustomMultiChild Layout to Resolve RenderOverflow Errors
