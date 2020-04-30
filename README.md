@@ -1,5 +1,5 @@
 
-# LayoutExplorer
+# Layout Explorer
 ## Flutter Layout Explorer:  Using Flutter's Dart DevTools for Resolving the RenderFlex Overflow Errors 
  ![visualization of layout explorer](http://www.feliciachamberlain.com/flutter/devtools/layout-explorer-logo-diagram.png)
  
