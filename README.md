@@ -29,6 +29,7 @@
 * [Active: Layout Explorer --> quick jump to overflow source](https://github.com/flutter/devtools/issues/1546): FR - LayoutExplorer - Add option to quick jump to overflowing widget
 * [Active: Will be closed soon](https://github.com/flutter/devtools/issues/1590): DevTools Debugger not available after launching Layout Explorer
 * [Active: Style Guidance for DevTools](https://github.com/flutter/devtools/pull/1847): UX guidance for specific aspects of UI/UX DevTools visual standards
+* [Active: Theme Inspector](https://github.com/flutter/devtools/issues/483): Visualizing the widgets and elements
 
 ### In Queue 
 * [DevTools landing page](https://github.com/flutter/devtools/issues/433):An informational / orientation landing page for DevTools
