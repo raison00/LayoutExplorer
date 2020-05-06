@@ -34,12 +34,12 @@
 * [Active: UX Punch List Item: Accessible Color](https://github.com/flutter/devtools/issues/1880): Green status color is too light in the light theme
 
 ### In Queue 
-* [DevTools landing page](https://github.com/flutter/devtools/issues/433):An informational / orientation landing page for DevTools
+* [Design DevTools Landing Page](https://github.com/flutter/devtools/issues/433):An informational / orientation landing page for DevTools. Having a page like this, perhaps served from /, would address a few workflow issues.
 * [Flutter Console Layout Issues: UX Messaging](https://github.com/flutter/flutter/issues/41149): Improve message for the RenderFlex Overflow error
 * [Flutter Layout Explorer Contextual UX](https://github.com/flutter/devtools/issues/1546): UX Workflow: Add option to quickly jump to overflowing widget
 * [Flutter Visual Search & Browse in IDE](https://github.com/flutter/flutter-intellij/issues/4081): Provide an in-IDE widget search and browsing experience that covers all Flutter stock widgets and a few popular community-generated widgets. Widget preview images and rich descriptions should be readily accessible in the IDE for the user to assess relevance to their tasks.
 * [Persist the memory profile timeline](https://github.com/flutter/flutter/issues/44013#issuecomment-596662684): UX Workflow: the memory profile timeline
-* [Design DevTools Landing Page](https://github.com/flutter/devtools/issues/433): Having a page like this, perhaps served from /, would address a few workflow issues.
+
 
 
 
