@@ -30,7 +30,7 @@
 * [Active: Will be closed soon](https://github.com/flutter/devtools/issues/1590): DevTools Debugger not available after launching Layout Explorer
 * [Active: Style Guidance for DevTools](https://github.com/flutter/devtools/pull/1847): UX guidance for specific aspects of UI/UX DevTools visual standards
 * [Active: Theme Inspector](https://github.com/flutter/devtools/issues/483): Visualizing the widgets and elements
-* [Consistent UX: consistent scroll physics](https://github.com/flutter/devtools/pull/1911): UI changes from a UX review: consistent scroll physics
+* [Active: UX Punch List Item: Consistent Scroll Physics](https://github.com/flutter/devtools/pull/1911): UI changes from a UX review: consistent scroll physics
 * [Active: UX Punch List Item: Accessible Color](https://github.com/flutter/devtools/issues/1880): Green status color is too light in the light theme
 
 ### In Queue 
