@@ -32,6 +32,7 @@
 * [Active: Theme Inspector](https://github.com/flutter/devtools/issues/483): Visualizing the widgets and elements
 * [Active: UX Punch List Item: Consistent Scroll Physics](https://github.com/flutter/devtools/pull/1911): UI changes from a UX review: consistent scroll physics
 * [Active: UX Punch List Item: Accessible Color](https://github.com/flutter/devtools/issues/1880): Green status color is too light in the light theme
+* [Active: Inspector text color has regressed](https://github.com/flutter/devtools/issues/1931): Changes made to Light Theme: Inspector text color has regressed
 
 ### In Queue 
 * [Design DevTools Landing Page](https://github.com/flutter/devtools/issues/433): An informational / orientation landing page for DevTools. Having a page like this, perhaps served from /, would address a few workflow issues.
