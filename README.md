@@ -1,5 +1,15 @@
 
-# Layout Explorer
+# DevTools and the Flutter Widget Inspector Layout Explorer
+## DevTools UX Punch List 2020 
+[Network](https://github.com/flutter/devtools/issues/1980) <br>
+[Timeline](https://github.com/flutter/devtools/issues/1964)<br>
+[Performance](https://github.com/flutter/devtools/issues/1977)<br>
+[Info](https://github.com/flutter/devtools/issues/1957)<br>
+[Debugger](https://github.com/flutter/devtools/issues/1972)<br>
+[Inspector](https://github.com/flutter/devtools/issues/1984)<br>
+[Logging](https://github.com/flutter/devtools/issues/1982)<br>
+[Memory](https://github.com/flutter/devtools/issues/1974)<br>
+##
 ## Flutter Layout Explorer:  Using Flutter's Dart DevTools for Resolving the RenderFlex Overflow Errors 
  ![visualization of layout explorer](http://www.feliciachamberlain.com/flutter/devtools/layout-explorer-logo-diagram.png)
  
